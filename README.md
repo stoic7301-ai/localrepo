@@ -1,0 +1,1 @@
+Hey this is simple demo of creating a local repo in the system and adding it to github
